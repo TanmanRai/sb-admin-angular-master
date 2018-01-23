@@ -1,0 +1,14 @@
+  .fullscreen_bg {
+    position: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('bg.jpg');
+    background-repeat:repeat;
+  }
